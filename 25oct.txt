@@ -1,4 +1,4 @@
 write a program that read size of array from user and also take input till array size.
 if size of array is an even number it should just display its size
-else it should display the midpoint element and also display
-elements before midpoint element and after midpoint sepertely.
+else it should display the midpoint element 
+and also displayelements before midpoint element and after midpoint sepertely.
